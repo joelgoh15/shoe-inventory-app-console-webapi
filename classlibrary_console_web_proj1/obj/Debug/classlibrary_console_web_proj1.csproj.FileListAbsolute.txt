@@ -1,0 +1,6 @@
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\console_web_proj1\classlibrary_console_web_proj1\bin\Debug\classlibrary_console_web_proj1.dll
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\console_web_proj1\classlibrary_console_web_proj1\bin\Debug\classlibrary_console_web_proj1.pdb
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\console_web_proj1\classlibrary_console_web_proj1\obj\Debug\classlibrary_console_web_proj1.csproj.AssemblyReference.cache
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\console_web_proj1\classlibrary_console_web_proj1\obj\Debug\classlibrary_console_web_proj1.csproj.CoreCompileInputs.cache
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\console_web_proj1\classlibrary_console_web_proj1\obj\Debug\classlibrary_console_web_proj1.dll
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\console_web_proj1\classlibrary_console_web_proj1\obj\Debug\classlibrary_console_web_proj1.pdb
