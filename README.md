@@ -12,3 +12,11 @@ section 2: client side project that calls/integrate with web-api. console applic
 </p>
 
 <p>tech stack in brief: c#, linq, web-api</p>
+
+<p>
+how to use application:</br>
+1. visual studio ide</br>
+2. double-click console_web_proj1.sln</br>
+</p>
+  
+</p>
